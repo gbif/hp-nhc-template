@@ -1,0 +1,24 @@
+title: Selected specimens
+description: |
+    Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+cta:
+- text: View all specimens in the Biocultural collection
+  href: /occurrence/search?year=2000
+  isPrimary: true
+features: 
+- title: Raphia farinifera (Gaertn.) Hyl.
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://ecbot.science.kew.org/ecbotimg/main/EBC_98094.jpg
+  href: /collections/economic
+- title: Birds
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://ecbot.science.kew.org/ecbotimg/main/EBC_98026.jpg
+  href: /collections/economic
+- title: Insects
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://ecbot.science.kew.org/ecbotimg/main/EBC_97837.jpg
+  href: /collections/economic
+- title: Invertebrates
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://ecbot.science.kew.org/ecbotimg/main/EBC_90233.jpg
+  href: /collections/invertebrates

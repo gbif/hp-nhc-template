@@ -1,0 +1,12 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  href: /about
+- text: Collections
+  href: /collections
+- text: Specimens
+  href: /specimens
+- text: Contact us
+  href: /contact-us
+- text: Acme Museum
+  href: https://acmemuseum.org

@@ -1,0 +1,40 @@
+title: Collections
+description: |
+  Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+features: 
+- title: Invertebrates
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/179946441/original.jpg
+  href: /collections/economic
+- title: Birds
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://medialib.naturalis.nl/file/id/RMNH.AVES.259477.b_ven/format/large
+  href: /collections/economic
+- title: Insects
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://mczbase.mcz.harvard.edu/specimen_images/entomology/paleo/large/PALE-33700_syn2_Cecidomyiidae.jpg
+  href: /collections/economic
+- title: Invertebrates
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/179946441/original.jpg
+  href: /collections/economic
+- title: Birds
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://medialib.naturalis.nl/file/id/RMNH.AVES.259477.b_ven/format/large
+  href: /collections/economic
+- title: Insects
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://mczbase.mcz.harvard.edu/specimen_images/entomology/paleo/large/PALE-33700_syn2_Cecidomyiidae.jpg
+  href: /collections/economic
+- title: Invertebrates
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/179946441/original.jpg
+  href: /collections/economic
+- title: Birds
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://medialib.naturalis.nl/file/id/RMNH.AVES.259477.b_ven/format/large
+  href: /collections/economic
+- title: Insects
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://mczbase.mcz.harvard.edu/specimen_images/entomology/paleo/large/PALE-33700_syn2_Cecidomyiidae.jpg
+  href: /collections/economic
