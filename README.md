@@ -1,5 +1,5 @@
-[![Build Status](https://builds.gbif.org/job/hp-gb29/badge/icon)](https://builds.gbif.org/job/hp-gb29/lastBuild/console)
+[![Build Status](https://builds.gbif.org/job/hp-nhc-template/badge/icon)](https://builds.gbif.org/job/hp-nhc-template/lastBuild/console)
 
-# GBIF 29th Governing Board Meeting website
+# Natural history Museum template demo site
 
 in progress
