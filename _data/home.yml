@@ -7,31 +7,31 @@ collectionsPreview:
     href: /collections
     isPrimary: true
   features: 
-  - title: Invertebrates
+  - title: Plants
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: https://inaturalist-open-data.s3.amazonaws.com/photos/179946441/original.jpg
+    background: /assets/images/https---flic.kr-p-2hGczwd.jpg
     href: /collections/economic
   - title: Birds
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: https://medialib.naturalis.nl/file/id/RMNH.AVES.259477.b_ven/format/large
+    background: /assets/images/https---flic.kr-p-nwm87H.jpg
     href: /collections/economic
   - title: Insects
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: https://mczbase.mcz.harvard.edu/specimen_images/entomology/paleo/large/PALE-33700_syn2_Cecidomyiidae.jpg
+    background: /assets/images/https---flic.kr-p-28VdK8H.jpg
     href: /collections/economic
 
 
 polarBear:
   reverse: false
-  title: Polar bear skull collection
+  title: Ants collection
   description: |      # required
     The museum has the largest collection of polar bear skulls in europe
   # img required
-  background: http://ipt.nature.ca/multimedia/0/008/NMCZ164s.jpg
+  background: /assets/images/https---flic.kr-p-2jMzuxq.jpg
   imageLicense: |
     "NMCZ164s.jpg" - Ursus maritimus Phipps, 1774 
     collected in Canada
-    by Credit Line: © Canadian Museum of Nature Rights Holder: Lipman, Martin Begin Date: © 1999 Martin Lipman Rights Type: copyright (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    by Credit Line: via https://flic.kr/p/2jMzuxq.jpg
   cta:
   - text: See all specimens
     href: /occurrence/search
@@ -45,13 +45,13 @@ specimens:
   features: 
   - title: Crateroscelis murina (P.L.Sclater, 1858)
     description: Rusty mouse-warbler
-    background: https://inaturalist-open-data.s3.amazonaws.com/photos/179946441/original.jpg
+    background: /assets/images/https---flic.kr-p-2jPEwsa.jpg
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
   - title: Tanysiptera galatea G.R.Gray, 1859
     description: Common paradise-kingfisher
-    background: https://medialib.naturalis.nl/file/id/RMNH.AVES.259477.b_ven/format/large
+    background: /assets/images/https---flic.kr-p-2m1Z73q.jpg
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
   - title: Fossilanapis anderseni Wunderlich, 2004
     description: Lorem ipsum dolor sit amet
-    background: https://mczbase.mcz.harvard.edu/specimen_images/entomology/paleo/large/PALE-33700_syn2_Cecidomyiidae.jpg
+    background: /assets/images/https---flic.kr-p-DjNFke.jpg
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
