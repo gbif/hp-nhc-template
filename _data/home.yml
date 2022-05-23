@@ -53,5 +53,5 @@ specimens:
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
   - title: Fossilanapis anderseni Wunderlich, 2004
     description: Lorem ipsum dolor sit amet
-    background: /assets/images/https---flic.kr-p-DjNFke.jpg
+    background: https://github.com/gbif/hp-nhc-template/blob/master/assets/images/https---flic.kr-p-DjNFke.jpg 
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
