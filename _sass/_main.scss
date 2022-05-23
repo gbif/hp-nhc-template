@@ -78,7 +78,7 @@ $navbar-breakpoint: 10000px; // always show burger menu
     z-index: 1;
     position: relative;
     color: $black;
-    padding: 50px 0; }
+    padding: 50px 0; 
   &.hasTextShadow {
     .feature-pre-title, .feature-title, .feature-description {
       text-shadow: 0 0 12px #ffffff88; }
@@ -86,4 +86,4 @@ $navbar-breakpoint: 10000px; // always show burger menu
       .feature-pre-title, .feature-title, .feature-description {
         text-shadow: 0 0 12px #00000033; } } }
   &.hasWhiteText .feature-content, &.hasWhiteText .feature-title {
-    color: #FAF0CA; }
+    color: #FAF0CA; }}
