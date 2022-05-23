@@ -56,3 +56,18 @@ $navbar-breakpoint: 10000px; // always show burger menu
     color: #021D3D; }
   .feature-title {
     margin-top: 0!important; } }
+
+  .splitBanner {
+  display: flex;
+  max-width: 2000px;
+  margin: auto;
+  background: #FDC333;
+  >div {
+    flex: 0 0 50%; }
+  .feature-content {
+    padding: 5rem;
+    font-size: 120%; }
+  &--reverse {
+    flex-direction: row-reverse; }
+  .feature-title {
+    margin-top: 0!important; } }
