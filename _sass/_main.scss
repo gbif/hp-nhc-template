@@ -45,6 +45,8 @@ $navbar-breakpoint: 10000px; // always show burger menu
   max-width: 100%;
   margin: $card-gap;
   overflow: hidden;
+  box-shadow: none;
+  border: none;
   background: transparent;
   .feature-img {
     height: 0;
@@ -71,3 +73,17 @@ $navbar-breakpoint: 10000px; // always show burger menu
     flex-direction: row-reverse; }
   .feature-title {
     margin-top: 0!important; }}}}
+
+.feature-content {
+    z-index: 1;
+    position: relative;
+    color: $black;
+    padding: 50px 0; }
+  &.hasTextShadow {
+    .feature-pre-title, .feature-title, .feature-description {
+      text-shadow: 0 0 12px #ffffff88; }
+    &.hasWhiteText {
+      .feature-pre-title, .feature-title, .feature-description {
+        text-shadow: 0 0 12px #00000033; } } }
+  &.hasWhiteText .feature-content, &.hasWhiteText .feature-title {
+    color: #FAF0CA; }
