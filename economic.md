@@ -1,7 +1,7 @@
 ---
 title: Biocultural collection
 # description: Species occurrence data for the United States and U.S. Territories.
-background: [https://raw.githubusercontent.com/gbif/hp-nhc-template/masterassets/images/https---flic.kr-p-2hoV151.jpg]
+background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2hoV151.jpg
 imageLicense: |
   [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 permalink: /collections/economic
