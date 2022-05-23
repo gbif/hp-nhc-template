@@ -39,3 +39,20 @@ $navbar-breakpoint: 10000px; // always show burger menu
   background: #FAF0CA;
   padding-top: 4rem;
   padding-bottom: 4rem; }
+
+.feature {
+  flex: 0 0 $card-width;
+  max-width: 100%;
+  margin: $card-gap;
+  overflow: hidden;
+  background: transparent;
+  .feature-img {
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
+  .feature-content {
+    padding: 24px; }
+  .feature-description {
+    color: #021D3D; }
+  .feature-title {
+    margin-top: 0!important; } }
