@@ -111,3 +111,7 @@ $navbar-breakpoint: 10000px; // always show burger menu
     color: #021D3D;
     }
 }
+
+section {
+  &.features, &.splitBanner, &.textBanner {
+    border-bottom: none; } }
