@@ -46,7 +46,7 @@ $navbar-breakpoint: 10000px; // always show burger menu
   margin: $card-gap;
   overflow: hidden;
   box-shadow: none;
-  border: none;
+  border: 1px solid #fec40e;
   background: transparent;
   .feature-img {
     height: 0;
