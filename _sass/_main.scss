@@ -25,3 +25,12 @@ $navbar-breakpoint: 10000px; // always show burger menu
     padding: 0;
   }
 }
+
+@media screen and (max-width: $navbar-breakpoint) {
+  .navbar {
+    // background: $navbar-background-color!important
+    &--hasWhiteText {
+      .navbar-logo_text {
+        color: #FAF0CA; }
+      .navbar-burger {
+        color: #FAF0CA; } } } }
