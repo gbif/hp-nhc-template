@@ -87,3 +87,19 @@ $navbar-breakpoint: 10000px; // always show burger menu
         text-shadow: 0 0 12px #00000033; } } }
   &.hasWhiteText .feature-content, &.hasWhiteText .feature-title {
     color: #FAF0CA; }}
+
+.floatingHero.home {
+  .feature-content {
+    text-align: left;
+    width: 800px;
+    margin: auto;
+    max-width: 100%;
+  }
+  .feature-description {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: #FAF0CA;
+  }
+}
