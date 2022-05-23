@@ -25,7 +25,7 @@ polarBear:
   reverse: false
   title: Ants collection
   description: |      # required
-    The museum has the largest collection of ants in europe
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, lacus dignissim egestas venenatis, augue nisl consequat ante, eget rutrum ex erat in sapien. Aliquam elementum massa ac lacinia vulputate. Cras sagittis nisi vel sem tincidunt, id pharetra velit ultrices. Quisque lobortis accumsan auctor. Praesent ac neque id tortor accumsan vestibulum. Etiam vitae orci accumsan massa semper fermentum a at leo. Donec ut quam facilisis, blandit odio quis, aliquam felis.
   # img required
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2jMzuxq.jpg
   imageLicense: |
