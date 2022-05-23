@@ -100,3 +100,14 @@ $navbar-breakpoint: 10000px; // always show burger menu
     color: #FAF0CA;
     }
 }
+
+.button is-outlined {
+    background-color: #FAF0CA;
+    border-color: transparent;
+    color: #021D3D;
+    &:hover {
+        background-color: #FFC300;
+    border-color: transparent;
+    color: #021D3D;
+    }
+}
