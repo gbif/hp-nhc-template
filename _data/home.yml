@@ -9,15 +9,15 @@ collectionsPreview:
   features: 
   - title: Plants
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/https---flic.kr-p-2hGczwd.jpg
+    background: assets/images/https---flic.kr-p-2hGczwd.jpg
     href: /collections/economic
   - title: Birds
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/https---flic.kr-p-nwm87H.jpg
+    background: assets/images/https---flic.kr-p-nwm87H.jpg
     href: /collections/economic
   - title: Insects
     description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-    background: /assets/images/https---flic.kr-p-28VdK8H.jpg
+    background: assets/images/https---flic.kr-p-28VdK8H.jpg
     href: /collections/economic
 
 
@@ -27,7 +27,7 @@ polarBear:
   description: |      # required
     The museum has the largest collection of ants in europe
   # img required
-  background: /assets/images/https---flic.kr-p-2jMzuxq.jpg
+  background: assets/images/https---flic.kr-p-2jMzuxq.jpg
   imageLicense: |
     "NMCZ164s.jpg" - Ursus maritimus Phipps, 1774 
     collected in Canada
@@ -45,11 +45,11 @@ specimens:
   features: 
   - title: Crateroscelis murina (P.L.Sclater, 1858)
     description: Rusty mouse-warbler
-    background: /assets/images/https---flic.kr-p-2jPEwsa.jpg
+    background: assets/images/https---flic.kr-p-2jPEwsa.jpg
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
   - title: Tanysiptera galatea G.R.Gray, 1859
     description: Common paradise-kingfisher
-    background: /assets/images/https---flic.kr-p-2m1Z73q.jpg
+    background: assets/images/https---flic.kr-p-2m1Z73q.jpg
     href: /occurrence/search?entity=2576170701&mediaType=StillImage&view=TABLE
   - title: Fossilanapis anderseni Wunderlich, 2004
     description: Lorem ipsum dolor sit amet
