@@ -25,7 +25,7 @@ polarBear:
   reverse: false
   title: Ants collection
   description: |      # required
-    The museum has the largest collection of polar bear skulls in europe
+    The museum has the largest collection of ants in europe
   # img required
   background: /assets/images/https---flic.kr-p-2jMzuxq.jpg
   imageLicense: |
