@@ -1,7 +1,7 @@
 ---
 title: Scorpiones
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/5sco.jpg
+background: /assets/images/5sco-hor.jpg
 imageLicense: |
   [*Buthus apiatus *Lourenço, El Bouhissi & Sadine, 2020](https://www.gbif.org/occurrence/3110526303) collected in Algeria (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
 composition:
