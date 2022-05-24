@@ -17,6 +17,7 @@ $navbar-breakpoint: 10000px; // always show burger menu
     width: 800px;
     margin: auto;
     max-width: 100%;
+    max-width: calc(100% - 24px);
   }
   .feature-description {
     font-size: 28px;
@@ -79,7 +80,6 @@ $navbar-breakpoint: 10000px; // always show burger menu
     text-align: left;
     width: 800px;
     margin: auto;
-    max-width: 100%;
   }
   .feature-description {
     font-size: 28px;
@@ -118,4 +118,10 @@ section {
 
 section.splitBanner {
 background-color: #fec40e;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar-logo_text {
+    display: none;
+  }
 }
