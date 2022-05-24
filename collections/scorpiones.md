@@ -13,7 +13,7 @@ composition:
       description: |
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
-      - text: View all specimens in the Scopriones collection
+      - text: View all specimens in the Scorpiones collection
         href: /occurrence/search?taxonKey=872
         isPrimary: true
       features: 
