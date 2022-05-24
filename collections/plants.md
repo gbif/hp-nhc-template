@@ -1,9 +1,9 @@
 ---
-title: Plants
+title: Scorpiones
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/https---flic.kr-p-2hoV151.jpg
+background: /assets/images/5sco.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Buthus apiatus *Lourenço, El Bouhissi & Sadine, 2020](https://www.gbif.org/occurrence/3110526303) collected in Algeria (licensed under <http://creativecommons.org/licenses/by-nc-nd/4.0/>)
 composition:
   - type: postHeader
   - type: pageMarkdown
@@ -17,10 +17,10 @@ composition:
         href: /occurrence/search?year=2000
         isPrimary: true
       features: 
-      - title: Raphia farinifera (Gaertn.) Hyl.
+      - title: *Buthus apiatus* Lourenço, El Bouhissi & Sadine, 2020
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2kVeBMv.jpg
-        href: /collections/economic
+        href: /occurrence/search?entity=3110526303
       - title: Birds
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2jrpJvq.jpg
