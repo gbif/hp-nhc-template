@@ -4,7 +4,7 @@ collectionsPreview:
     Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
   cta:
   - text: View all collections
-    href: /collections
+    href: /collections/plants
     isPrimary: true
   features: 
   - title: Plants
