@@ -19,7 +19,7 @@ composition:
       features: 
       - title: Buthus apiatus Lourenço, El Bouhissi & Sadine, 2020
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2kVeBMv.jpg
+        background: /assets/images/5sco.jpg
         href: /occurrence/search?entity=3110526303
       - title: Birds
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
