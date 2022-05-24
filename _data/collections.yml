@@ -2,39 +2,31 @@ title: Collections
 description: |
   Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
 features: 
-- title: Invertebrates
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2jPEwsa.jpg
-  href: /collections/economic
 - title: Plants
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2jPEwsa.jpg
+  href: /collections/plants
+- title: Fishes
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2hGczwd.jpg
-  href: /collections/economic
+  href: /collections/fishes
 - title: Insects
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-28VdK8H.jpg
-  href: /collections/economic
-- title: Invertebrates
+  href: /collections/insects
+- title: Arthropoda
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2iXcgSW.jpg
-  href: /collections/economic
-- title: Plants
+  href: /collections/arthropoda
+- title: Echinodermata
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2hHnV1k.jpg
-  href: /collections/economic
-- title: Insects
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2kVeBMv.jpg
-  href: /collections/economic
+  href: /collections/echinodermata
 - title: Fungi
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2kVeBMv.jpg
+  href: /collections/fungi
+- title: Cnidaria
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-o9666U.jpg
-  href: /collections/economic
-- title: Birds
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-roV3JH.jpg
-  href: /collections/economic
-- title: Plants
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-PahS5z.jpg
-  href: /collections/economic
+  href: /collections/cnidaria
