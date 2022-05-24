@@ -13,8 +13,8 @@ composition:
       description: |
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
-      - text: View all specimens in the Plants collection
-        href: /occurrence/search?year=2000
+      - text: View all specimens in the Scopriones collection
+        href: /occurrence/search?taxonKey=872
         isPrimary: true
       features: 
       - title: Buthus apiatus Lourenço, El Bouhissi & Sadine, 2020
