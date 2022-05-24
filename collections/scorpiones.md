@@ -23,16 +23,16 @@ composition:
         href: /occurrence/search?entity=3110526303
       - title: Opisthacanthus faillei Lourenço & Wilme, 2019
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: assets/images/3sco.jpg
+        background: assets/images/6sco.jpg
         href: /occurrence/search?entity=3302687306
-      - title: Insects
+      - title: Scorpiops langxian Qi, Zhu & Lourenço, 2005
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2hoV151.jpg
-        href: /collections/economic
-      - title: Invertebrates
+        background: assets/images/1sco.jpg
+        href: /occurrence/search?entity=1019649608
+      - title: Chactas yaupi Lourenço, 2014
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: https://raw.githubusercontent.com/gbif/hp-nhc-template/master/assets/images/https---flic.kr-p-2jPEwsa.jpg
-        href: /collections/invertebrates
+        background: assets/images/3sco.jpg
+        href: /occurrence/search?entity=1019649608
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. 
