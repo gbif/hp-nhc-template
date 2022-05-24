@@ -40,6 +40,7 @@ polarBear:
 
 specimens:
   title: Selected specimens
+  klass: specimens
   description: |
     Take a peak
   features: 
