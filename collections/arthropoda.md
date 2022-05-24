@@ -13,7 +13,7 @@ composition:
       description: |
           Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
       cta:
-      - text: View all specimens in the Biocultural collection
+      - text: View all specimens in the Arthropoda collection
         href: /occurrence/search?year=2000
         isPrimary: true
       features: 
