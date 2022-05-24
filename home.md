@@ -6,8 +6,7 @@ description: |
 background: /assets/images/https---flic.kr-p-2iqRGkR.jpg
 imageLicense: |
   Photo via https://flic.kr/p/2iqRGkR
-  
-height: 100vh
+height: 80vh
 parallax: true
 cta:
   - text: Specimens
