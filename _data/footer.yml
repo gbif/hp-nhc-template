@@ -3,13 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: GBIF.org
+  - name: Natural history Museum demo site
     description: | # Can be Markdown
-      This site is affiliated to [GBIF.org](https://www.gbif.org).
-    links: 
-    - text: Cookie and privacy policy
-      href: https://www.gbif.org/terms/privacy-policy
-    connectIcons: true
+      This site is a demo site for .... - see also gbif.org/hosted-portals ...
 
 # EXAMPLE
 #- name: Group name
