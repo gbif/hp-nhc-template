@@ -23,7 +23,7 @@ composition:
         href: /occurrence/search?entity=1993833044
       - title: Helictopleurus fasciolatus subsp. suturalis Montreuil, 2012
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/col2-2.jpg
+        background: /assets/images/col-2.jpg
         href: /occurrence/search?entity=694187259
       - title: Lagochile duvergeri Soula, 2005
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
