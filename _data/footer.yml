@@ -6,7 +6,12 @@ columns:
   - name: Hosted portal • demo site
     klass: linkhosted
     description: | # Can be Markdown
-      [Click here for more information on GBIF hosted portals](https://gbif.org/hosted-portals) 
+    
+    links: # optional as well
+  - text: More information
+    href: https://gbif.org/hosted-portals
+      
+    connectIcons: true
 
 # EXAMPLE
 #- name: Group name
