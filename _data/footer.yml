@@ -9,12 +9,9 @@ columns:
     description: | # Can be Markdown
     
     links: # optional as well
-    
     - text: More information
-      href: (https://gbif.org/hosted-portals)
+      href: https://gbif.org/hosted-portals
       
-    
-
 # EXAMPLE
 #- name: Group name
 #  description: |
