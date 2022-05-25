@@ -19,19 +19,19 @@ composition:
       features: 
       - title: Metria pascali Barbut, 2016
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/lep-1.jpg 
+        background: /assets/images/lep-1a.jpg 
         href: /occurrence/search?entity=1883280838
       - title: Regobarrosia colletii Gibeaux, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/lep-2.jpg
+        background: /assets/images/lep-2a.jpg
         href: /occurrence/search?entity=1990805026
       - title: Eulepidotis poirieri Barbut & Lalanne-Cassou, 2014
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/lep-3.jpg
+        background: /assets/images/lep-3a.jpg
         href: /occurrence/search?entity=1020747701
       - title: Symmachia stigmosissima subsp. eddyi Gallard, 2008
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-        background: /assets/images/lep-4.jpg
+        background: /assets/images/lep-4a.jpg
         href: /occurrence/search?entity=1020748094
 ---
 
