@@ -3,7 +3,7 @@ title: Cnidaria
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/cni3-2jpg.jpg
 imageLicense: |
-  [*Octophialucium irregularis* Peter, 2021] (https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608) Collected in United States of America by the Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Octophialucium irregularis* Peter, 2021](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608) Collected in United States of America by the Florida Museum of Natural History Invertebrate Zoology licensed under [cc-by-4.4](http://creativecommons.org/licenses/by-nc/4.0/)
 composition:
   - type: postHeader
   - type: pageMarkdown
