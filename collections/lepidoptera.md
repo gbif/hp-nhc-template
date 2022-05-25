@@ -1,7 +1,7 @@
 ---
 title: Lepidoptera
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/lep-3.jpg
+background: /assets/images/lep-3a.jpg
 imageLicense: |
   [*Eulepidotis poirieri* Barbut & Lalanne-Cassou, 2014](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1020747701) Collected in French Guiana, Marion DEPRAETERE licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0)
 composition:
