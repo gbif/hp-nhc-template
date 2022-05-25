@@ -3,9 +3,9 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Natural history Museum demo site
+  - name: Natural history Museum • demo site
     description: | # Can be Markdown
-      This site is a demo site for .... - see also gbif.org/hosted-portals ...
+      [Click here for more information on GBIF hosted portals](https://gbif.org/hotsted-portals) 
 
 # EXAMPLE
 #- name: Group name
