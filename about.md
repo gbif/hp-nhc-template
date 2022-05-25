@@ -1,5 +1,6 @@
 ---
 title: About
+klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/about-2.jpeg
