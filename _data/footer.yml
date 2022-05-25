@@ -10,8 +10,8 @@ columns:
     
     links: # optional as well
     
-  - text: More information
-    href: (https://gbif.org/hosted-portals)
+    - text: More information
+      href: (https://gbif.org/hosted-portals)
       
     
 
