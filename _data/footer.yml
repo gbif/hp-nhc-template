@@ -8,7 +8,7 @@ columns:
     connectIcons: true
     description: | # Can be Markdown
     
-  links: # optional as well
+    links: # optional as well
     
   - text: More information
     href: (https://gbif.org/hosted-portals)
