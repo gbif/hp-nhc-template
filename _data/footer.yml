@@ -9,7 +9,7 @@ columns:
     description: | # Can be Markdown
     
     links: # optional as well
-    - text: More information
+    - text: Click here for more information on hosted portals
       href: https://gbif.org/hosted-portals
       
 # EXAMPLE
