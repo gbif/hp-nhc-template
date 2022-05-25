@@ -3,7 +3,7 @@ title: About
 klass: about
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/about-2.jpeg
+background: /assets/images/about-2.jpg
 imageLicense: |
   [*Calcinus tubularis* (Linnaeus, 1767)](/occurrence/search?entity=2579975003) Collected in France by Corbari L. licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 ---
