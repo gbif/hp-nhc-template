@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 description: |
   The ACME Museum has 10 million specimens collected over 300 years. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=821cc27a-e3bb-4bc5-ac34-89ada245069d&limit=0">1,883</span> objects across 10 collections are currently available online, showcasing biodiversity from around the world.
-background: /assets/images/about-2.jpg
+background: /assets/images/bg-acme.jpg
 imageLicense: |
   Photo via [Flickr](https://flic.kr/p/2iqRGkR)
 height: 80vh
