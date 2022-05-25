@@ -5,7 +5,7 @@ description: |
   The ACME Museum has 10 million specimens collected over 300 years. <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?datasetKey=821cc27a-e3bb-4bc5-ac34-89ada245069d&limit=0">1,883</span> objects across 10 collections are currently available online, showcasing biodiversity from around the world.
 background: /assets/images/bg-acme.jpg
 imageLicense: |
-  Photo via [Flickr](https://flic.kr/p/2iqRGkR)
+  [*Staurodiscus luteus*](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571124604) Collected in United States of America, Florida Museum of Natural History Invertebrate Zoology. Licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 height: 80vh
 parallax: true
 cta:
