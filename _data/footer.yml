@@ -3,10 +3,10 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Natural history Museum • demo site
-    description: | # Can be Markdown
+  - name: Hosted portal • demo site
     klass: linkhosted
-      [Click here for more information on GBIF hosted portals](https://gbif.org/hosted-portals) 
+    description: | # Can be Markdown
+    [Click here for more information on GBIF hosted portals](https://gbif.org/hosted-portals) 
 
 # EXAMPLE
 #- name: Group name
