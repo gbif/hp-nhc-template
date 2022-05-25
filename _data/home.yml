@@ -44,7 +44,7 @@ specimens:
   features: 
   - title: Octophialucium irregularis Peter, 2021
     description: 
-    background: assets/images/cni3-2.jpg
+    background: assets/images/cni3-2jpg.jpg
     href: /occurrence/search?entity=2571118608
   - title: Calcinus tubularis (Linnaeus, 1767)
     description: 
