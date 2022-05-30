@@ -1,5 +1,5 @@
 ---
-title: Cicadidae
+title: Cicada
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/cic-3.jpg
 imageLicense: |
