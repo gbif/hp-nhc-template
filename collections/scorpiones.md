@@ -1,5 +1,5 @@
 ---
-title: Scorpiones
+title: Scorpions
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/5sco-head.jpg
 imageLicense: |
