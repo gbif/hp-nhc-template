@@ -1,5 +1,5 @@
 ---
-title: Decapoda
+title: Decapods
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/cru-3.jpg
 imageLicense: |
