@@ -1,5 +1,5 @@
 ---
-title: Echinodermata
+title: Echinoderms
 # description: Species occurrence data for the United States and U.S. Territories.
 background: /assets/images/star-1.jpg
 imageLicense: |
