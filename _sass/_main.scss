@@ -11,7 +11,17 @@ $yellow-bg: #FAF0CA;
   padding: 12px;
   border-radius: 4px 4px 0 0;
   font-weight: 900;
-  display: block!important
+  display: block!important;
+  position: fixed;
+  background: tomato;
+  color: white;
+  right: 24px;
+  bottom: 0;
+  z-index: 10000;
+  button {
+    background: none;
+    border: none;
+    color: inherit; 
 }
 #demoInfoModal .content {
   a {
