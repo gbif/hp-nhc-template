@@ -2,9 +2,10 @@
 title: Contact us
 layout: post
 # description: Species occurrence data for the United States and U.S. Territories.
-background: /assets/images/3058851394.jpeg
+background: /assets/images/star-1.jpg
 imageLicense: |
-  [*Alcedo atthis* (Linnaeus, 1758)](/biodiversity-of-bruxelle?entity=3058851394&view=TABLE) observed in Belgium by jrassart (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  [*Astroceramus kintana* Mah, 2018](https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=1806513266) by 
+Cyril CHAMBARD licensed under [CC-BY-4.0] (http://creativecommons.org/licenses/by-nc/4.0/)
 composition:
   - type: postHeader
   - type: pageMarkdown
