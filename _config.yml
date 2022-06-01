@@ -49,9 +49,10 @@ siteMeasurements:
   # termsVersion: "2022-02-16" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 algae:
+  hideHelper: true                # set to false or delete line  to show feedback during development
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/logo2.png   # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/logo2.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true              # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
