@@ -17,11 +17,11 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=43
         isPrimary: true
       features: 
-      - title: Staurodiscus luteus Peter, 2021
+      - title: <em>Staurodiscus luteus</em> Peter, 2021
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cni4-1.jpg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571124604
-      - title: Octophialucium irregularis Peter, 2021
+      - title: <em>Octophialucium irregularis</em> Peter, 2021
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cni3-2jpg.jpg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571118608
@@ -29,7 +29,7 @@ composition:
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cni2-3.jpg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2651560305
-      - title: Zygocanna apapillatus Xu, Huang & Guo, 2014
+      - title: <em>Zygocanna apapillatus</em> Xu, Huang & Guo, 2014
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cni1-4.jpg
         href: https://hp-nhc-template.gbif-staging.org/occurrence/search?entity=2571117605
