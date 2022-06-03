@@ -7,7 +7,7 @@ $yellow-bg: #FAF0CA;
 
 //anything below this line is related to the specific site styling. It can be deleted or modified as you desire.
 .feedbackButton {
-  background: #4caf50;
+  background: #F95738;
   padding: 12px;
   border-radius: 4px 4px 0 0;
   display: block!important;
@@ -20,7 +20,8 @@ $yellow-bg: #FAF0CA;
     background: none;
     border: none;
     color: inherit;
-    font-weight: 500;
+    font-weight: 700;
+    font-size: 16px;
   }
 }
 #demoInfoModal .content {
