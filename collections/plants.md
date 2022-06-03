@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=797
         isPrimary: true
       features: 
-      - title: Dipterocarpus alatus Roxb. ex G.Don
+      - title: <em>Dipterocarpus alatus</em> Roxb. ex G.Don
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/pla-1.jpg 
         href: /occurrence/search?entity=3461929305
-      - title: Molopospermum peloponnesiacum (L.) W.D.J.Koch
+      - title: <em>Molopospermum peloponnesiacum</em> (L.) W.D.J.Koch
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/pla-2.jpg
         href: /occurrence/search?entity=3015148310
-      - title: Silybum marianum (L.) Gaertn.
+      - title: <em>Silybum marianum</em> (L.) Gaertn.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/pla-3.jpg
         href: /occurrence/search?entity=3015158308
-      - title: Carex divisa Huds.
+      - title: <em>Carex divisa</em> Huds.
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/pla-4.jpg
         href: /occurrence/search?entity=3015180307
