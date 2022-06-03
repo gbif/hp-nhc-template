@@ -210,8 +210,8 @@ background-color: #fec40e;
     background-color: #021D3D;
     border-color: none;
     order-color: #dbdbdb;
-    border-width: 1px;
-    color: #FAF0CA;
+    border-width: 0px;
+    color: #fff;
     cursor: pointer;
     justify-content: center;
     padding-bottom: calc(0.5em - 1px);
@@ -221,3 +221,36 @@ background-color: #fec40e;
     text-align: center;
     white-space: nowrap;
 }
+
+.modal-close:hover, .delete:hover, .modal-close:focus, .delete:focus {
+    background-color: #0e335d;
+}
+
+.modal-close, .delete {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-color: #021D3D;
+    border: none;
+    border-radius: 290486px;
+    cursor: pointer;
+    pointer-events: auto;
+    display: inline-block;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 0;
+    height: 20px;
+    max-height: 20px;
+    max-width: 20px;
+    min-height: 20px;
+    min-width: 20px;
+    outline: none;
+    position: relative;
+    vertical-align: top;
+    width: 20px;
+}
+
+.button:hover, .button.is-hovered {
+    color: none;
+    color: #fff;
+}
+
