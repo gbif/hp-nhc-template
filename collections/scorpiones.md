@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?taxonKey=872
         isPrimary: true
       features: 
-      - title: *Buthus apiatus* Lourenço, El Bouhissi & Sadine, 2020
+      - title: <em>Buthus apiatus</em> Lourenço, El Bouhissi & Sadine, 2020
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/5sco.jpg 
         href: /occurrence/search?entity=3110526303
-      - title: *Opisthacanthus faillei* Lourenço & Wilme, 2019
+      - title: <em>Opisthacanthus faillei</em> Lourenço & Wilme, 2019
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/6sco.jpg
         href: /occurrence/search?entity=3302687306
-      - title: *Scorpiops langxian* Qi, Zhu & Lourenço, 2005
+      - title: <em>Scorpiops langxian</em> Qi, Zhu & Lourenço, 2005
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/1sco.jpg
         href: /occurrence/search?entity=1019649608
-      - title: *Chactas yaupi* Lourenço, 2014
+      - title: <em>Chactas yaupi</em> Lourenço, 2014
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/3sco.jpg
         href: /occurrence/search?entity=1019649608
