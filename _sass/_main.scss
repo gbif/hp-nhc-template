@@ -264,7 +264,7 @@ background-color: #fec40e;
 @media screen and (max-width: 10000px){
 .navbar--hasWhiteText .navbar-logo_text {
     color: #FAF0CA;
-    font-family: 'Merriweather Sans', BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;;
+    font-family: "Merriweather Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 1.6em;
     font-weight: 800;
   }
@@ -289,3 +289,23 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     background-color: #001D3D;
     color: #fff;
 }
+
+.modal-card-title {
+    color: #363636;
+    flex-grow: 1;
+    flex-shrink: 0;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-family: "Merriweather sans","Merriweather Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; 
+    font-weight: 700;
+}
+
+.feedbackButton button {
+    background: none;
+    border: none;
+    color: inherit;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: "Merriweather sans", , BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
