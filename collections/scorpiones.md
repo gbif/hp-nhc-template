@@ -28,7 +28,7 @@ composition:
       - title: <em>Scorpiops langxian</em> Qi, Zhu & Lourenço, 2005
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/1sco.jpg
-        href: /occurrence/search?entity=1019649608
+        href: /occurrence/search?entity=1064382595
       - title: <em>Chactas yaupi</em> Lourenço, 2014
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/3sco.jpg
