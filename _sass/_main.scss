@@ -283,9 +283,9 @@ background-color: #fec40e;
     line-height: 1.5;
     padding: 0.5rem 0.75rem;
     position: relative;
-    &:hover {
-      background-color: #001D3D;
-      color: #fff;
-}
 }
 
+a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
+    background-color: #001D3D;
+    color: #fff;
+}
