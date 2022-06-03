@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=50
         isPrimary: true
       features: 
-      - title: Galathea Fabricius, 1793
+      - title: <em>Galathea</em> Fabricius, 1793
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cru-1.jpg 
         href: /occurrence/search?entity=3762705670
-      - title: Macropodia Leach, 1814
+      - title: <em>Macropodia</em> Leach, 1814
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cru-2.jpg
         href: /occurrence/search?entity=2579972001
-      - title: Dardanus arrosor (Herbst, 1796
+      - title: <em>Dardanus arrosor</em> (Herbst, 1796
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cru-3.jpg
         href: /occurrence/search?entity=2579975002
-      - title: Calcinus tubularis (Linnaeus, 1767)
+      - title: <em>Calcinus tubularis</em> (Linnaeus, 1767)
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cru-4.jpg
         href: /occurrence/search?entity=2579975003
