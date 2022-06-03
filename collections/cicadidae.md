@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=50
         isPrimary: true
       features: 
-      - title: Kanakia salesnii Delorme, 2016
+      - title: <em>Kanakia salesnii</em> Delorme, 2016
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cic-1.jpg 
         href: /occurrence/search?entity=1265025121
-      - title: Orientopsaltria cantavis Boulard, 2003
+      - title: <em>Orientopsaltria cantavis</em> Boulard, 2003
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cic-2.jpg
         href: /occurrence/search?entity=1019734979
-      - title: Kanakia rana Delorme, 2016
+      - title: <em>Kanakia rana</em> Delorme, 2016
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cic-3.jpg
         href: /occurrence/search?entity=1265025119
-      - title: Chremistica elenae subsp. seychellensis Boulard, 2001
+      - title: <em>Chremistica elenae</em> subsp. <em>seychellensis</em> Boulard, 2001
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/cic-4.jpg
         href: /occurrence/search?entity=1019738134
