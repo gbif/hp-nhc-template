@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=50
         isPrimary: true
       features: 
-      - title: Astroceramus kintana Mah, 2018
+      - title: <em>Astroceramus kintana</em> Mah, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/star-1.jpg 
         href: /occurrence/search?entity=1806513266
-      - title: Wallastra elenderae Mah, 2018
+      - title: <em>Wallastra elenderae</em> Mah, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/star-2.jpg
         href: /occurrence/search?entity=2273923681
-      - title: Sphaeriodiscus ganae Mah, 2018
+      - title: <em>Sphaeriodiscus ganae</em> Mah, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/star-3.jpg
         href: /occurrence/search?entity=1703044920
-      - title: Ferdina mena Mah, 2017
+      - title: <em>Ferdina mena</em> Mah, 2017
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: assets/images/star-4.jpg
         href: /occurrence/search?entity=694169340
