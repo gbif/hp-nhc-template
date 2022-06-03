@@ -17,19 +17,19 @@ composition:
         href: /occurrence/search?basis_of_record=PRESERVED_SPECIMEN&taxon_key=1470
         isPrimary: true
       features: 
-      - title: Anthaxia (Anthaxia) cebecii Baiocchi & Magnani, 2018
+      - title: <em>Anthaxia cebecii</em> Baiocchi & Magnani, 2018
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/col-1.jpg 
         href: /occurrence/search?entity=1993833044
-      - title: Helictopleurus fasciolatus subsp. suturalis Montreuil, 2012
+      - title: <em>Helictopleurus fasciolatus</em> subsp. suturalis</em> Montreuil, 2012
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/col-2.jpg
         href: /occurrence/search?entity=694187259
-      - title: Lagochile duvergeri Soula, 2005
+      - title: <em>Lagochile duvergeri</em> Soula, 2005
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/col-3.jpg
         href: /occurrence/search?entity=583419472
-      - title: Chalcoplethis bleuzeni Bouchard, 2003
+      - title: <em>Chalcoplethis bleuzeni</em> Bouchard, 2003
         description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
         background: /assets/images/col-4.jpg
         href: /occurrence/search?entity=583421140
