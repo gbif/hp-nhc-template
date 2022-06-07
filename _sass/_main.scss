@@ -309,3 +309,11 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     font-family: "Merriweather sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
+.postHeader .feature-img {
+    height: 0;
+    padding-bottom: 40%;
+    width: 100%;
+    margin: auto;
+    border: none;
+    background-color: #eee;
+}
