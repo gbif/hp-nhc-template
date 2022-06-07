@@ -318,7 +318,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     background-color: #eee;
 }
 
-@media screen and (min-width: 1211px)
+@media screen and (min-width: 1211px){
 .feature-cards.has-4-elements .feature:nth-child(1) .feature-img .feature-cards.has-4-elements .feature:nth-child(4) .feature-img {
     max-height: none;
     height: 100%;
@@ -331,4 +331,4 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     width: 100%;
     padding-bottom: 60%;
     border-bottom: 1px solid #0000000d;
-}
+}}
