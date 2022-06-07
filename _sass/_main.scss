@@ -319,7 +319,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 @media screen and (min-width: 1211px)
-.feature-cards.has-4-elements .feature:nth-child(1) .feature-img, .feature-cards.has-4-elements .feature:nth-child(4) .feature-img {
+.feature-cards.has-4-elements .feature:nth-child(1) .feature-img .feature-cards.has-4-elements .feature:nth-child(4) .feature-img {
     max-height: none;
     height: 100%;
     border-bottom: none;
