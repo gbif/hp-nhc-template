@@ -1,7 +1,7 @@
 $navbar-breakpoint: 10000px; // always show burger menu
 @import "theme/_main";
 
-$yellow-bg: #FAF0CA;
+$yellow-bg: #ececec;
 
 // You can add additional styling here
 
@@ -78,8 +78,8 @@ $yellow-bg: #FAF0CA;
   margin: $card-gap;
   overflow: hidden;
   box-shadow: none;
-  border: 1px solid #fec40e;
-  background: transparent;
+  border: none;
+  background: #ffffff;
   .feature-img {
     height: 0;
     width: 100%;
@@ -95,7 +95,7 @@ $yellow-bg: #FAF0CA;
   display: flex;
   max-width: 2000px;
   margin: auto;
-  background: #FDC333;
+  background: #fec40e7d;
   >div {
     flex: 0 0 50%; }
   .feature-content {
